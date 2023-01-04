@@ -54,6 +54,7 @@ public class Main {
 
             indexCount += 1;
             System.out.println("HIRED NAME: " + finalApplicant.name + " WAGE: " + finalApplicant.wage);
+            case1(finalApplicant.wage);
         }
 
 
